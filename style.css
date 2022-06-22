@@ -1,0 +1,45 @@
+.diwali-bg-container{
+    background-image: url("https://images.hindustantimes.com/img/2021/11/02/550x309/udayaditya-barua-xisPXJqwQkA-unsplash_1635850538465_1635850559409.jpg");
+    background-size: cover;
+    height: 40vh;
+
+}
+
+.diwali-heading{
+    font-family: "roboto";
+    font-style: italic;
+    color:rgb(94, 196, 209);
+    padding: 15px;
+    width: 200px;
+}
+
+.cards-container{
+    background-color: rgb(180, 110, 45);
+    text-align: center;
+    
+}
+
+.image-card{
+    height: 50px;
+}
+
+.card-container{
+    border-radius: 15px;
+    width: 110px;
+    padding: 8px;
+    background-color: white;
+    text-align: center;
+    margin: 50px;
+
+}
+
+.card-heading{
+    font-family:"caveat";
+    font-size: 20px;
+    color:rgb(102, 109, 109);
+}
+
+.card-para{
+    font-weight: bolder;
+
+}
